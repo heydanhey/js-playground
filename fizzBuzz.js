@@ -12,4 +12,4 @@ function fizzBuzz(number){
     }
 }
 
-fizzBuzz(50);
+fizzBuzz(100);
